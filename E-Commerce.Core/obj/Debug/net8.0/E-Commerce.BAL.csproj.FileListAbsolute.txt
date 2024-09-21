@@ -1,0 +1,12 @@
+D:\Projects\E-Commerce\E-Commerce.Core\bin\Debug\net8.0\E-Commerce.BAL.deps.json
+D:\Projects\E-Commerce\E-Commerce.Core\bin\Debug\net8.0\E-Commerce.BAL.dll
+D:\Projects\E-Commerce\E-Commerce.Core\bin\Debug\net8.0\E-Commerce.BAL.pdb
+D:\Projects\E-Commerce\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.BAL.csproj.AssemblyReference.cache
+D:\Projects\E-Commerce\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\E-Commerce\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.BAL.AssemblyInfoInputs.cache
+D:\Projects\E-Commerce\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.BAL.AssemblyInfo.cs
+D:\Projects\E-Commerce\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.BAL.csproj.CoreCompileInputs.cache
+D:\Projects\E-Commerce\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.BAL.dll
+D:\Projects\E-Commerce\E-Commerce.Core\obj\Debug\net8.0\refint\E-Commerce.BAL.dll
+D:\Projects\E-Commerce\E-Commerce.Core\obj\Debug\net8.0\E-Commerce.BAL.pdb
+D:\Projects\E-Commerce\E-Commerce.Core\obj\Debug\net8.0\ref\E-Commerce.BAL.dll
